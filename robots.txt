@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joelleayoub.github.io/sitemap.xml
+Sitemap: https://joelleayoub1.github.io/sitemap.xml
